@@ -1,0 +1,8082 @@
+[
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "0%",
+      "young_sd": 0.11,
+      "yong_mean": 0.25,
+      "young_plussd": 0.39,
+      "adult_sd": 0.08,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "1%",
+      "young_sd": 0.09,
+      "yong_mean": 0.21,
+      "young_plussd": 0.33,
+      "adult_sd": 0.08,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "2%",
+      "young_sd": 0.09,
+      "yong_mean": 0.23,
+      "young_plussd": 0.38,
+      "adult_sd": 0.05,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.25
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "3%",
+      "young_sd": 0.13,
+      "yong_mean": 0.29,
+      "young_plussd": 0.45,
+      "adult_sd": 0.06,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.31
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "4%",
+      "young_sd": 0.13,
+      "yong_mean": 0.31,
+      "young_plussd": 0.49,
+      "adult_sd": 0.07,
+      "adult_mean": 0.23,
+      "adult_plussd": 0.39
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "5%",
+      "young_sd": 0.06,
+      "yong_mean": 0.24,
+      "young_plussd": 0.42,
+      "adult_sd": 0.06,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.3
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "6%",
+      "young_sd": -0.01,
+      "yong_mean": 0.17,
+      "young_plussd": 0.36,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "7%",
+      "young_sd": -0.01,
+      "yong_mean": 0.14,
+      "young_plussd": 0.29,
+      "adult_sd": 0,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "8%",
+      "young_sd": -0.01,
+      "yong_mean": 0.11,
+      "young_plussd": 0.22,
+      "adult_sd": -0.01,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "9%",
+      "young_sd": 0,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": -0.03,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "10%",
+      "young_sd": -0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": -0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "11%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": -0.02,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "12%",
+      "young_sd": -0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.19,
+      "adult_sd": -0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "13%",
+      "young_sd": -0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.2,
+      "adult_sd": -0.03,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "14%",
+      "young_sd": -0.04,
+      "yong_mean": 0.09,
+      "young_plussd": 0.21,
+      "adult_sd": -0.03,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "15%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": -0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "16%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "17%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": -0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "18%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": -0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "19%",
+      "young_sd": -0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": -0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "20%",
+      "young_sd": -0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": -0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "21%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": -0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "22%",
+      "young_sd": -0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": -0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "23%",
+      "young_sd": -0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.19,
+      "adult_sd": -0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "24%",
+      "young_sd": -0.06,
+      "yong_mean": 0.1,
+      "young_plussd": 0.26,
+      "adult_sd": -0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "25%",
+      "young_sd": -0.05,
+      "yong_mean": 0.08,
+      "young_plussd": 0.22,
+      "adult_sd": -0.03,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "26%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.16,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "27%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": -0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "28%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": -0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "29%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "30%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "31%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": -0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "32%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "33%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.11,
+      "adult_sd": -0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "34%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "35%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "36%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "37%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "38%",
+      "young_sd": 0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "39%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "40%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "41%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "42%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "43%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "44%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0.02,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "45%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "46%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "47%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "48%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "49%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "50%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "51%",
+      "young_sd": -0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "52%",
+      "young_sd": -0.02,
+      "yong_mean": 0.03,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "53%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "54%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "55%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "56%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "57%",
+      "young_sd": 0,
+      "yong_mean": 0.11,
+      "young_plussd": 0.22,
+      "adult_sd": -0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "58%",
+      "young_sd": 0.01,
+      "yong_mean": 0.13,
+      "young_plussd": 0.24,
+      "adult_sd": -0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "59%",
+      "young_sd": 0.02,
+      "yong_mean": 0.14,
+      "young_plussd": 0.26,
+      "adult_sd": -0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "60%",
+      "young_sd": 0.02,
+      "yong_mean": 0.14,
+      "young_plussd": 0.25,
+      "adult_sd": 0.01,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "61%",
+      "young_sd": 0.03,
+      "yong_mean": 0.13,
+      "young_plussd": 0.23,
+      "adult_sd": 0.03,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "62%",
+      "young_sd": 0.03,
+      "yong_mean": 0.15,
+      "young_plussd": 0.27,
+      "adult_sd": 0.02,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "63%",
+      "young_sd": 0.04,
+      "yong_mean": 0.15,
+      "young_plussd": 0.26,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "64%",
+      "young_sd": 0.04,
+      "yong_mean": 0.14,
+      "young_plussd": 0.23,
+      "adult_sd": 0.03,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "65%",
+      "young_sd": 0.04,
+      "yong_mean": 0.15,
+      "young_plussd": 0.25,
+      "adult_sd": 0.03,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "66%",
+      "young_sd": 0.06,
+      "yong_mean": 0.16,
+      "young_plussd": 0.26,
+      "adult_sd": 0.05,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.25
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "67%",
+      "young_sd": 0.07,
+      "yong_mean": 0.16,
+      "young_plussd": 0.26,
+      "adult_sd": 0.05,
+      "adult_mean": 0.16,
+      "adult_plussd": 0.27
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "68%",
+      "young_sd": 0.05,
+      "yong_mean": 0.16,
+      "young_plussd": 0.27,
+      "adult_sd": 0.05,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "69%",
+      "young_sd": 0.05,
+      "yong_mean": 0.16,
+      "young_plussd": 0.26,
+      "adult_sd": 0.06,
+      "adult_mean": 0.16,
+      "adult_plussd": 0.27
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "70%",
+      "young_sd": 0.05,
+      "yong_mean": 0.15,
+      "young_plussd": 0.24,
+      "adult_sd": 0.07,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "71%",
+      "young_sd": 0.05,
+      "yong_mean": 0.14,
+      "young_plussd": 0.23,
+      "adult_sd": 0.07,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "72%",
+      "young_sd": 0.03,
+      "yong_mean": 0.13,
+      "young_plussd": 0.24,
+      "adult_sd": 0.06,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "73%",
+      "young_sd": 0.04,
+      "yong_mean": 0.12,
+      "young_plussd": 0.21,
+      "adult_sd": 0.05,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "74%",
+      "young_sd": 0.04,
+      "yong_mean": 0.11,
+      "young_plussd": 0.18,
+      "adult_sd": 0.04,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.25
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "75%",
+      "young_sd": 0.04,
+      "yong_mean": 0.1,
+      "young_plussd": 0.17,
+      "adult_sd": 0.03,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "76%",
+      "young_sd": 0.02,
+      "yong_mean": 0.1,
+      "young_plussd": 0.18,
+      "adult_sd": 0.03,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "77%",
+      "young_sd": 0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.17,
+      "adult_sd": 0.03,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "78%",
+      "young_sd": 0,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": 0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "79%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": 0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "80%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "81%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "82%",
+      "young_sd": 0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "83%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "84%",
+      "young_sd": 0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "85%",
+      "young_sd": 0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "86%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": 0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "87%",
+      "young_sd": 0.03,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "88%",
+      "young_sd": 0.03,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.03,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "89%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.16,
+      "adult_sd": 0.03,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "90%",
+      "young_sd": 0.03,
+      "yong_mean": 0.11,
+      "young_plussd": 0.19,
+      "adult_sd": 0.04,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "91%",
+      "young_sd": 0.04,
+      "yong_mean": 0.1,
+      "young_plussd": 0.17,
+      "adult_sd": 0.03,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "92%",
+      "young_sd": 0.04,
+      "yong_mean": 0.1,
+      "young_plussd": 0.17,
+      "adult_sd": 0.03,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "93%",
+      "young_sd": 0.04,
+      "yong_mean": 0.13,
+      "young_plussd": 0.22,
+      "adult_sd": 0.03,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "94%",
+      "young_sd": 0.05,
+      "yong_mean": 0.16,
+      "young_plussd": 0.28,
+      "adult_sd": 0.03,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "95%",
+      "young_sd": 0.08,
+      "yong_mean": 0.2,
+      "young_plussd": 0.32,
+      "adult_sd": 0.04,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "96%",
+      "young_sd": 0.09,
+      "yong_mean": 0.23,
+      "young_plussd": 0.37,
+      "adult_sd": 0.05,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "97%",
+      "young_sd": 0.09,
+      "yong_mean": 0.23,
+      "young_plussd": 0.36,
+      "adult_sd": 0.08,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "98%",
+      "young_sd": 0.1,
+      "yong_mean": 0.22,
+      "young_plussd": 0.35,
+      "adult_sd": 0.09,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.27
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "99%",
+      "young_sd": 0.1,
+      "yong_mean": 0.24,
+      "young_plussd": 0.38,
+      "adult_sd": 0.08,
+      "adult_mean": 0.17,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Tibialis anterior",
+      "% Gait Cycle": "100%",
+      "young_sd": 0.11,
+      "yong_mean": 0.24,
+      "young_plussd": 0.37,
+      "adult_sd": 0.09,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.27
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "0%",
+      "young_sd": 0,
+      "yong_mean": 0.09,
+      "young_plussd": 0.17,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "1%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.16,
+      "adult_sd": 0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "2%",
+      "young_sd": -0.01,
+      "yong_mean": 0.12,
+      "young_plussd": 0.24,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "3%",
+      "young_sd": 0.02,
+      "yong_mean": 0.12,
+      "young_plussd": 0.22,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "4%",
+      "young_sd": 0.04,
+      "yong_mean": 0.11,
+      "young_plussd": 0.18,
+      "adult_sd": -0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "5%",
+      "young_sd": 0,
+      "yong_mean": 0.1,
+      "young_plussd": 0.2,
+      "adult_sd": -0.04,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "6%",
+      "young_sd": -0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": -0.04,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "7%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.16,
+      "adult_sd": -0.04,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "8%",
+      "young_sd": -0.03,
+      "yong_mean": 0.07,
+      "young_plussd": 0.16,
+      "adult_sd": -0.02,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "9%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": -0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "10%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "11%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "12%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "13%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "14%",
+      "young_sd": 0,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": 0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "15%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.16,
+      "adult_sd": 0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "16%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "17%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "18%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "19%",
+      "young_sd": 0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.17,
+      "adult_sd": 0.01,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "20%",
+      "young_sd": 0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.16,
+      "adult_sd": 0.03,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "21%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.17,
+      "adult_sd": 0.03,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "22%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.16,
+      "adult_sd": 0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "23%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "24%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "25%",
+      "young_sd": 0.02,
+      "yong_mean": 0.1,
+      "young_plussd": 0.17,
+      "adult_sd": 0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "26%",
+      "young_sd": 0.03,
+      "yong_mean": 0.09,
+      "young_plussd": 0.16,
+      "adult_sd": 0.03,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "27%",
+      "young_sd": 0.03,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.04,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "28%",
+      "young_sd": 0.04,
+      "yong_mean": 0.11,
+      "young_plussd": 0.18,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "29%",
+      "young_sd": 0.04,
+      "yong_mean": 0.11,
+      "young_plussd": 0.19,
+      "adult_sd": 0.03,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "30%",
+      "young_sd": 0.04,
+      "yong_mean": 0.12,
+      "young_plussd": 0.21,
+      "adult_sd": 0.04,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "31%",
+      "young_sd": 0.04,
+      "yong_mean": 0.12,
+      "young_plussd": 0.21,
+      "adult_sd": 0.04,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "32%",
+      "young_sd": 0.04,
+      "yong_mean": 0.12,
+      "young_plussd": 0.21,
+      "adult_sd": 0.05,
+      "adult_mean": 0.16,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "33%",
+      "young_sd": 0.05,
+      "yong_mean": 0.13,
+      "young_plussd": 0.22,
+      "adult_sd": 0.05,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "34%",
+      "young_sd": 0.05,
+      "yong_mean": 0.16,
+      "young_plussd": 0.26,
+      "adult_sd": 0.06,
+      "adult_mean": 0.16,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "35%",
+      "young_sd": 0.06,
+      "yong_mean": 0.18,
+      "young_plussd": 0.29,
+      "adult_sd": 0.07,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.3
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "36%",
+      "young_sd": 0.06,
+      "yong_mean": 0.19,
+      "young_plussd": 0.32,
+      "adult_sd": 0.08,
+      "adult_mean": 0.19,
+      "adult_plussd": 0.3
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "37%",
+      "young_sd": 0.07,
+      "yong_mean": 0.21,
+      "young_plussd": 0.36,
+      "adult_sd": 0.08,
+      "adult_mean": 0.21,
+      "adult_plussd": 0.35
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "38%",
+      "young_sd": 0.08,
+      "yong_mean": 0.23,
+      "young_plussd": 0.38,
+      "adult_sd": 0.1,
+      "adult_mean": 0.24,
+      "adult_plussd": 0.37
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "39%",
+      "young_sd": 0.1,
+      "yong_mean": 0.22,
+      "young_plussd": 0.34,
+      "adult_sd": 0.1,
+      "adult_mean": 0.26,
+      "adult_plussd": 0.41
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "40%",
+      "young_sd": 0.11,
+      "yong_mean": 0.24,
+      "young_plussd": 0.38,
+      "adult_sd": 0.1,
+      "adult_mean": 0.25,
+      "adult_plussd": 0.4
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "41%",
+      "young_sd": 0.11,
+      "yong_mean": 0.25,
+      "young_plussd": 0.4,
+      "adult_sd": 0.11,
+      "adult_mean": 0.23,
+      "adult_plussd": 0.35
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "42%",
+      "young_sd": 0.11,
+      "yong_mean": 0.26,
+      "young_plussd": 0.41,
+      "adult_sd": 0.13,
+      "adult_mean": 0.25,
+      "adult_plussd": 0.37
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "43%",
+      "young_sd": 0.1,
+      "yong_mean": 0.28,
+      "young_plussd": 0.45,
+      "adult_sd": 0.1,
+      "adult_mean": 0.25,
+      "adult_plussd": 0.39
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "44%",
+      "young_sd": 0.1,
+      "yong_mean": 0.26,
+      "young_plussd": 0.41,
+      "adult_sd": 0.09,
+      "adult_mean": 0.25,
+      "adult_plussd": 0.41
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "45%",
+      "young_sd": 0.07,
+      "yong_mean": 0.23,
+      "young_plussd": 0.38,
+      "adult_sd": 0.09,
+      "adult_mean": 0.24,
+      "adult_plussd": 0.39
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "46%",
+      "young_sd": 0.06,
+      "yong_mean": 0.17,
+      "young_plussd": 0.29,
+      "adult_sd": 0.07,
+      "adult_mean": 0.2,
+      "adult_plussd": 0.33
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "47%",
+      "young_sd": 0.02,
+      "yong_mean": 0.17,
+      "young_plussd": 0.31,
+      "adult_sd": 0.04,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.32
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "48%",
+      "young_sd": 0,
+      "yong_mean": 0.16,
+      "young_plussd": 0.32,
+      "adult_sd": 0.01,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "49%",
+      "young_sd": 0,
+      "yong_mean": 0.12,
+      "young_plussd": 0.24,
+      "adult_sd": -0.01,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "50%",
+      "young_sd": 0,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "51%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": -0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "52%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": -0.03,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "53%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": -0.03,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "54%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": -0.02,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "55%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "56%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "57%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "58%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "59%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "60%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "61%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "62%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "63%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "64%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "65%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "66%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "67%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "68%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "69%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "70%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "71%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "72%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "73%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "74%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "75%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "76%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "77%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "78%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.04,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "79%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.04,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "80%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "81%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "82%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "83%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "84%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.04,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "85%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.04,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "86%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "87%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "88%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "89%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "90%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "91%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "92%",
+      "young_sd": 0.02,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "93%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "94%",
+      "young_sd": -0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "95%",
+      "young_sd": -0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.16,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "96%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "97%",
+      "young_sd": 0,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "98%",
+      "young_sd": 0,
+      "yong_mean": 0.09,
+      "young_plussd": 0.17,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "99%",
+      "young_sd": -0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.2,
+      "adult_sd": 0.02,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Soleus",
+      "% Gait Cycle": "100%",
+      "young_sd": 0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.16,
+      "adult_sd": 0.02,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "0%",
+      "young_sd": -0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "1%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "2%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "3%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "4%",
+      "young_sd": -0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "5%",
+      "young_sd": -0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "6%",
+      "young_sd": -0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "7%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "8%",
+      "young_sd": -0.02,
+      "yong_mean": 0.04,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "9%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": -0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "10%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "11%",
+      "young_sd": -0.02,
+      "yong_mean": 0.04,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "12%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "13%",
+      "young_sd": -0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "14%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "15%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "16%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "17%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "18%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": 0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "19%",
+      "young_sd": 0,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": 0.01,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "20%",
+      "young_sd": 0,
+      "yong_mean": 0.1,
+      "young_plussd": 0.21,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "21%",
+      "young_sd": 0.01,
+      "yong_mean": 0.1,
+      "young_plussd": 0.19,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "22%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": 0.02,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "23%",
+      "young_sd": 0,
+      "yong_mean": 0.1,
+      "young_plussd": 0.19,
+      "adult_sd": 0.01,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "24%",
+      "young_sd": 0.01,
+      "yong_mean": 0.1,
+      "young_plussd": 0.19,
+      "adult_sd": 0,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "25%",
+      "young_sd": 0.02,
+      "yong_mean": 0.11,
+      "young_plussd": 0.2,
+      "adult_sd": 0.02,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "26%",
+      "young_sd": 0,
+      "yong_mean": 0.14,
+      "young_plussd": 0.27,
+      "adult_sd": 0.04,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "27%",
+      "young_sd": 0.03,
+      "yong_mean": 0.14,
+      "young_plussd": 0.25,
+      "adult_sd": 0.03,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.25
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "28%",
+      "young_sd": 0.04,
+      "yong_mean": 0.12,
+      "young_plussd": 0.21,
+      "adult_sd": 0.02,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.29
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "29%",
+      "young_sd": 0.04,
+      "yong_mean": 0.14,
+      "young_plussd": 0.24,
+      "adult_sd": 0.03,
+      "adult_mean": 0.16,
+      "adult_plussd": 0.29
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "30%",
+      "young_sd": 0.05,
+      "yong_mean": 0.17,
+      "young_plussd": 0.28,
+      "adult_sd": 0.04,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "31%",
+      "young_sd": 0.04,
+      "yong_mean": 0.18,
+      "young_plussd": 0.32,
+      "adult_sd": 0.05,
+      "adult_mean": 0.16,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "32%",
+      "young_sd": 0.05,
+      "yong_mean": 0.16,
+      "young_plussd": 0.26,
+      "adult_sd": 0.06,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.3
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "33%",
+      "young_sd": 0.06,
+      "yong_mean": 0.17,
+      "young_plussd": 0.28,
+      "adult_sd": 0.06,
+      "adult_mean": 0.19,
+      "adult_plussd": 0.31
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "34%",
+      "young_sd": 0.07,
+      "yong_mean": 0.21,
+      "young_plussd": 0.35,
+      "adult_sd": 0.07,
+      "adult_mean": 0.19,
+      "adult_plussd": 0.31
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "35%",
+      "young_sd": 0.06,
+      "yong_mean": 0.22,
+      "young_plussd": 0.37,
+      "adult_sd": 0.08,
+      "adult_mean": 0.2,
+      "adult_plussd": 0.33
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "36%",
+      "young_sd": 0.05,
+      "yong_mean": 0.22,
+      "young_plussd": 0.39,
+      "adult_sd": 0.09,
+      "adult_mean": 0.22,
+      "adult_plussd": 0.36
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "37%",
+      "young_sd": 0.07,
+      "yong_mean": 0.22,
+      "young_plussd": 0.37,
+      "adult_sd": 0.09,
+      "adult_mean": 0.23,
+      "adult_plussd": 0.36
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "38%",
+      "young_sd": 0.07,
+      "yong_mean": 0.21,
+      "young_plussd": 0.36,
+      "adult_sd": 0.1,
+      "adult_mean": 0.23,
+      "adult_plussd": 0.37
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "39%",
+      "young_sd": 0.07,
+      "yong_mean": 0.23,
+      "young_plussd": 0.4,
+      "adult_sd": 0.08,
+      "adult_mean": 0.25,
+      "adult_plussd": 0.41
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "40%",
+      "young_sd": 0.06,
+      "yong_mean": 0.23,
+      "young_plussd": 0.4,
+      "adult_sd": 0.1,
+      "adult_mean": 0.25,
+      "adult_plussd": 0.41
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "41%",
+      "young_sd": 0.04,
+      "yong_mean": 0.2,
+      "young_plussd": 0.37,
+      "adult_sd": 0.09,
+      "adult_mean": 0.26,
+      "adult_plussd": 0.43
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "42%",
+      "young_sd": 0.02,
+      "yong_mean": 0.18,
+      "young_plussd": 0.34,
+      "adult_sd": 0.07,
+      "adult_mean": 0.25,
+      "adult_plussd": 0.43
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "43%",
+      "young_sd": 0.01,
+      "yong_mean": 0.17,
+      "young_plussd": 0.34,
+      "adult_sd": 0.08,
+      "adult_mean": 0.22,
+      "adult_plussd": 0.36
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "44%",
+      "young_sd": -0.04,
+      "yong_mean": 0.15,
+      "young_plussd": 0.34,
+      "adult_sd": 0.06,
+      "adult_mean": 0.19,
+      "adult_plussd": 0.33
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "45%",
+      "young_sd": 0.01,
+      "yong_mean": 0.11,
+      "young_plussd": 0.22,
+      "adult_sd": 0.04,
+      "adult_mean": 0.16,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "46%",
+      "young_sd": 0,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": 0.01,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.27
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "47%",
+      "young_sd": -0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.17,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "48%",
+      "young_sd": -0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "49%",
+      "young_sd": -0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.11,
+      "adult_sd": -0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "50%",
+      "young_sd": -0.02,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": -0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "51%",
+      "young_sd": -0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "52%",
+      "young_sd": -0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "53%",
+      "young_sd": -0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.05,
+      "adult_sd": -0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "54%",
+      "young_sd": 0,
+      "yong_mean": 0.01,
+      "young_plussd": 0.02,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "55%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "56%",
+      "young_sd": 0,
+      "yong_mean": 0.01,
+      "young_plussd": 0.03,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "57%",
+      "young_sd": 0.01,
+      "yong_mean": 0.01,
+      "young_plussd": 0.02,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "58%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "59%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "60%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "61%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "62%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "63%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "64%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "65%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "66%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "67%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "68%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "69%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "70%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "71%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "72%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "73%",
+      "young_sd": 0,
+      "yong_mean": 0.01,
+      "young_plussd": 0.03,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "74%",
+      "young_sd": -0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "75%",
+      "young_sd": -0.07,
+      "yong_mean": 0.03,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "76%",
+      "young_sd": -0.06,
+      "yong_mean": 0.03,
+      "young_plussd": 0.12,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "77%",
+      "young_sd": -0.02,
+      "yong_mean": 0.02,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "78%",
+      "young_sd": -0.04,
+      "yong_mean": 0.03,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "79%",
+      "young_sd": -0.04,
+      "yong_mean": 0.02,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "80%",
+      "young_sd": -0.02,
+      "yong_mean": 0.02,
+      "young_plussd": 0.06,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "81%",
+      "young_sd": -0.02,
+      "yong_mean": 0.02,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "82%",
+      "young_sd": -0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "83%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "84%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "85%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "86%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "87%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "88%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "89%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "90%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "91%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "92%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.03,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "93%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "94%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "95%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "96%",
+      "young_sd": -0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "97%",
+      "young_sd": -0.02,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "98%",
+      "young_sd": -0.03,
+      "yong_mean": 0.04,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "99%",
+      "young_sd": -0.02,
+      "yong_mean": 0.04,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Gastrocnemius medialis",
+      "% Gait Cycle": "100%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "0%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "1%",
+      "young_sd": 0.03,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "2%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.17,
+      "adult_sd": 0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "3%",
+      "young_sd": 0.03,
+      "yong_mean": 0.1,
+      "young_plussd": 0.17,
+      "adult_sd": 0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "4%",
+      "young_sd": 0.03,
+      "yong_mean": 0.11,
+      "young_plussd": 0.18,
+      "adult_sd": 0.03,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "5%",
+      "young_sd": 0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": 0.02,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "6%",
+      "young_sd": 0,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": -0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "7%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": -0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "8%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "9%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "10%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": -0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "11%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": -0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "12%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "13%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "14%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "15%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "16%",
+      "young_sd": 0,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "17%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "18%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": -0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "19%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "20%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": -0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "21%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "22%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "23%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.13,
+      "adult_sd": -0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "24%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": -0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "25%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "26%",
+      "young_sd": 0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.17,
+      "adult_sd": 0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "27%",
+      "young_sd": 0,
+      "yong_mean": 0.1,
+      "young_plussd": 0.2,
+      "adult_sd": -0.01,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "28%",
+      "young_sd": 0.02,
+      "yong_mean": 0.11,
+      "young_plussd": 0.2,
+      "adult_sd": 0,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "29%",
+      "young_sd": 0.03,
+      "yong_mean": 0.12,
+      "young_plussd": 0.2,
+      "adult_sd": 0.01,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "30%",
+      "young_sd": 0.03,
+      "yong_mean": 0.11,
+      "young_plussd": 0.2,
+      "adult_sd": 0.02,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "31%",
+      "young_sd": 0.04,
+      "yong_mean": 0.11,
+      "young_plussd": 0.19,
+      "adult_sd": 0.01,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.27
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "32%",
+      "young_sd": 0.02,
+      "yong_mean": 0.12,
+      "young_plussd": 0.23,
+      "adult_sd": 0.02,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.27
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "33%",
+      "young_sd": 0.02,
+      "yong_mean": 0.14,
+      "young_plussd": 0.25,
+      "adult_sd": 0.03,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.27
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "34%",
+      "young_sd": 0.05,
+      "yong_mean": 0.16,
+      "young_plussd": 0.26,
+      "adult_sd": 0.03,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.27
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "35%",
+      "young_sd": 0.06,
+      "yong_mean": 0.15,
+      "young_plussd": 0.25,
+      "adult_sd": 0.04,
+      "adult_mean": 0.16,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "36%",
+      "young_sd": 0.06,
+      "yong_mean": 0.17,
+      "young_plussd": 0.28,
+      "adult_sd": 0.04,
+      "adult_mean": 0.17,
+      "adult_plussd": 0.29
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "37%",
+      "young_sd": 0.07,
+      "yong_mean": 0.2,
+      "young_plussd": 0.32,
+      "adult_sd": 0.06,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.29
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "38%",
+      "young_sd": 0.1,
+      "yong_mean": 0.21,
+      "young_plussd": 0.31,
+      "adult_sd": 0.05,
+      "adult_mean": 0.2,
+      "adult_plussd": 0.34
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "39%",
+      "young_sd": 0.09,
+      "yong_mean": 0.22,
+      "young_plussd": 0.36,
+      "adult_sd": 0.06,
+      "adult_mean": 0.21,
+      "adult_plussd": 0.35
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "40%",
+      "young_sd": 0.1,
+      "yong_mean": 0.23,
+      "young_plussd": 0.36,
+      "adult_sd": 0.06,
+      "adult_mean": 0.21,
+      "adult_plussd": 0.35
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "41%",
+      "young_sd": 0.09,
+      "yong_mean": 0.22,
+      "young_plussd": 0.35,
+      "adult_sd": 0.06,
+      "adult_mean": 0.2,
+      "adult_plussd": 0.34
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "42%",
+      "young_sd": 0.1,
+      "yong_mean": 0.24,
+      "young_plussd": 0.39,
+      "adult_sd": 0.08,
+      "adult_mean": 0.19,
+      "adult_plussd": 0.31
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "43%",
+      "young_sd": 0.08,
+      "yong_mean": 0.25,
+      "young_plussd": 0.42,
+      "adult_sd": 0.07,
+      "adult_mean": 0.19,
+      "adult_plussd": 0.32
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "44%",
+      "young_sd": 0.08,
+      "yong_mean": 0.22,
+      "young_plussd": 0.35,
+      "adult_sd": 0.07,
+      "adult_mean": 0.22,
+      "adult_plussd": 0.36
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "45%",
+      "young_sd": 0.08,
+      "yong_mean": 0.22,
+      "young_plussd": 0.36,
+      "adult_sd": 0.06,
+      "adult_mean": 0.2,
+      "adult_plussd": 0.34
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "46%",
+      "young_sd": 0.05,
+      "yong_mean": 0.18,
+      "young_plussd": 0.32,
+      "adult_sd": 0.06,
+      "adult_mean": 0.18,
+      "adult_plussd": 0.3
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "47%",
+      "young_sd": 0.03,
+      "yong_mean": 0.14,
+      "young_plussd": 0.26,
+      "adult_sd": 0.04,
+      "adult_mean": 0.17,
+      "adult_plussd": 0.3
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "48%",
+      "young_sd": 0.02,
+      "yong_mean": 0.14,
+      "young_plussd": 0.27,
+      "adult_sd": 0.02,
+      "adult_mean": 0.17,
+      "adult_plussd": 0.31
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "49%",
+      "young_sd": 0.01,
+      "yong_mean": 0.13,
+      "young_plussd": 0.25,
+      "adult_sd": 0,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "50%",
+      "young_sd": 0.01,
+      "yong_mean": 0.1,
+      "young_plussd": 0.2,
+      "adult_sd": 0.01,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "51%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "52%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "53%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "54%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "55%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "56%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": -0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "57%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "58%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "59%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "60%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "61%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "62%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "63%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "64%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "65%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "66%",
+      "young_sd": 0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "67%",
+      "young_sd": 0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "68%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "69%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "70%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "71%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "72%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.02,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "73%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "74%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "75%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "76%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "77%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "78%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "79%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "80%",
+      "young_sd": 0,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "81%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "82%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "83%",
+      "young_sd": 0.01,
+      "yong_mean": 0.02,
+      "young_plussd": 0.04,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "84%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "85%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "86%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "87%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "88%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "89%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "90%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "91%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": -0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "92%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "93%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "94%",
+      "young_sd": 0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "95%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "96%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "97%",
+      "young_sd": 0.03,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "98%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "99%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Peroneus longus",
+      "% Gait Cycle": "100%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.13,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "0%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "1%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "2%",
+      "young_sd": 0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.17,
+      "adult_sd": 0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "3%",
+      "young_sd": 0.01,
+      "yong_mean": 0.1,
+      "young_plussd": 0.2,
+      "adult_sd": 0.04,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "4%",
+      "young_sd": -0.01,
+      "yong_mean": 0.11,
+      "young_plussd": 0.22,
+      "adult_sd": 0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "5%",
+      "young_sd": 0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": 0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "6%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "7%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0.03,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "8%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0.03,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "9%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": 0.02,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "10%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "11%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "12%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.08,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "13%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "14%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "15%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "16%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "17%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "18%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "19%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "20%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "21%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "22%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "23%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "24%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "25%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "26%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "27%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "28%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "29%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "30%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "31%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "32%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "33%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "34%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "35%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "36%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "37%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "38%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "39%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "40%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "41%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "42%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "43%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "44%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "45%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "46%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "47%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "48%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "49%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "50%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "51%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "52%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "53%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "54%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "55%",
+      "young_sd": -0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "56%",
+      "young_sd": -0.05,
+      "yong_mean": 0.07,
+      "young_plussd": 0.18,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "57%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "58%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": -0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "59%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "60%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "61%",
+      "young_sd": -0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": -0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "62%",
+      "young_sd": 0,
+      "yong_mean": 0.09,
+      "young_plussd": 0.19,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "63%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": -0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "64%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": -0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "65%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "66%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "67%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "68%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "69%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "70%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "71%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "72%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "73%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "74%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "75%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "76%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "77%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "78%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "79%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "80%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "81%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "82%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "83%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "84%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "85%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "86%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "87%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "88%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "89%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "90%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "91%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "92%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "93%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "94%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.11,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "95%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "96%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "97%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "98%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "99%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Rectus femoris",
+      "% Gait Cycle": "100%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "0%",
+      "young_sd": 0.01,
+      "yong_mean": 0.11,
+      "young_plussd": 0.2,
+      "adult_sd": 0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "1%",
+      "young_sd": 0.01,
+      "yong_mean": 0.14,
+      "young_plussd": 0.26,
+      "adult_sd": 0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "2%",
+      "young_sd": 0.03,
+      "yong_mean": 0.16,
+      "young_plussd": 0.29,
+      "adult_sd": 0.03,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "3%",
+      "young_sd": 0.06,
+      "yong_mean": 0.17,
+      "young_plussd": 0.29,
+      "adult_sd": 0.03,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "4%",
+      "young_sd": 0.06,
+      "yong_mean": 0.17,
+      "young_plussd": 0.27,
+      "adult_sd": 0.03,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "5%",
+      "young_sd": 0.05,
+      "yong_mean": 0.14,
+      "young_plussd": 0.24,
+      "adult_sd": 0.02,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "6%",
+      "young_sd": 0.04,
+      "yong_mean": 0.14,
+      "young_plussd": 0.23,
+      "adult_sd": 0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "7%",
+      "young_sd": 0.03,
+      "yong_mean": 0.12,
+      "young_plussd": 0.22,
+      "adult_sd": 0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "8%",
+      "young_sd": 0,
+      "yong_mean": 0.1,
+      "young_plussd": 0.21,
+      "adult_sd": 0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "9%",
+      "young_sd": 0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.18,
+      "adult_sd": 0.02,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "10%",
+      "young_sd": 0,
+      "yong_mean": 0.09,
+      "young_plussd": 0.19,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "11%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "12%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "13%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "14%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "15%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "16%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "17%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "18%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "19%",
+      "young_sd": -0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "20%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": -0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "21%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": -0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "22%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": -0.02,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "23%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": -0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "24%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": -0.04,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "25%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": -0.05,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "26%",
+      "young_sd": -0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.14,
+      "adult_sd": -0.03,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "27%",
+      "young_sd": -0.05,
+      "yong_mean": 0.06,
+      "young_plussd": 0.18,
+      "adult_sd": -0.03,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "28%",
+      "young_sd": -0.04,
+      "yong_mean": 0.06,
+      "young_plussd": 0.16,
+      "adult_sd": -0.04,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "29%",
+      "young_sd": -0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": -0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "30%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "31%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "32%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "33%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "34%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "35%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "36%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "37%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "38%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "39%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "40%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "41%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "42%",
+      "young_sd": -0.02,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "43%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "44%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "45%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "46%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "47%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "48%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "49%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "50%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "51%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "52%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "53%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "54%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "55%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "56%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "57%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "58%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": -0.03,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "59%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": -0.02,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "60%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "61%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "62%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "63%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "64%",
+      "young_sd": -0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "65%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "66%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "67%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "68%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "69%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "70%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "71%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "72%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "73%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "74%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "75%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "76%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "77%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "78%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "79%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.03
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "80%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "81%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "82%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "83%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "84%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0,
+      "adult_mean": 0.02,
+      "adult_plussd": 0.04
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "85%",
+      "young_sd": 0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "86%",
+      "young_sd": 0.02,
+      "yong_mean": 0.04,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "87%",
+      "young_sd": 0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "88%",
+      "young_sd": 0.02,
+      "yong_mean": 0.05,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "89%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "90%",
+      "young_sd": 0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "91%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "92%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0.02,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "93%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "94%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "95%",
+      "young_sd": 0.01,
+      "yong_mean": 0.1,
+      "young_plussd": 0.19,
+      "adult_sd": -0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "96%",
+      "young_sd": 0,
+      "yong_mean": 0.11,
+      "young_plussd": 0.22,
+      "adult_sd": -0.04,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "97%",
+      "young_sd": 0,
+      "yong_mean": 0.11,
+      "young_plussd": 0.22,
+      "adult_sd": -0.04,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "98%",
+      "young_sd": 0.02,
+      "yong_mean": 0.11,
+      "young_plussd": 0.2,
+      "adult_sd": -0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "99%",
+      "young_sd": 0.03,
+      "yong_mean": 0.12,
+      "young_plussd": 0.2,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Vastus medialis",
+      "% Gait Cycle": "100%",
+      "young_sd": 0.02,
+      "yong_mean": 0.11,
+      "young_plussd": 0.21,
+      "adult_sd": 0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "0%",
+      "young_sd": 0.01,
+      "yong_mean": 0.12,
+      "young_plussd": 0.23,
+      "adult_sd": 0.03,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.26
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "1%",
+      "young_sd": -0.01,
+      "yong_mean": 0.12,
+      "young_plussd": 0.25,
+      "adult_sd": 0.01,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "2%",
+      "young_sd": 0.02,
+      "yong_mean": 0.11,
+      "young_plussd": 0.21,
+      "adult_sd": 0.01,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "3%",
+      "young_sd": 0.01,
+      "yong_mean": 0.11,
+      "young_plussd": 0.2,
+      "adult_sd": 0.03,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "4%",
+      "young_sd": -0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.2,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "5%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "6%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": -0.02,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "7%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": -0.01,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "8%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": -0.01,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.2
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "9%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "10%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "11%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "12%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "13%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": -0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.16
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "14%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "15%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "16%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "17%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "18%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "19%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "20%",
+      "young_sd": -0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.18,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "21%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.16,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "22%",
+      "young_sd": -0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.18,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "23%",
+      "young_sd": -0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "24%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.16,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "25%",
+      "young_sd": -0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.18,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "26%",
+      "young_sd": -0.03,
+      "yong_mean": 0.09,
+      "young_plussd": 0.21,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "27%",
+      "young_sd": -0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.2,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "28%",
+      "young_sd": -0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.18,
+      "adult_sd": -0.02,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "29%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "30%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.18,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "31%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.18,
+      "adult_sd": -0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "32%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": -0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "33%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "34%",
+      "young_sd": 0,
+      "yong_mean": 0.09,
+      "young_plussd": 0.17,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "35%",
+      "young_sd": -0.01,
+      "yong_mean": 0.09,
+      "young_plussd": 0.19,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "36%",
+      "young_sd": -0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.19,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "37%",
+      "young_sd": -0.03,
+      "yong_mean": 0.09,
+      "young_plussd": 0.21,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "38%",
+      "young_sd": -0.03,
+      "yong_mean": 0.09,
+      "young_plussd": 0.21,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "39%",
+      "young_sd": -0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.17,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "40%",
+      "young_sd": -0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "41%",
+      "young_sd": -0.03,
+      "yong_mean": 0.07,
+      "young_plussd": 0.18,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "42%",
+      "young_sd": -0.03,
+      "yong_mean": 0.07,
+      "young_plussd": 0.16,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "43%",
+      "young_sd": -0.04,
+      "yong_mean": 0.06,
+      "young_plussd": 0.17,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "44%",
+      "young_sd": -0.03,
+      "yong_mean": 0.06,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "45%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "46%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "47%",
+      "young_sd": -0.05,
+      "yong_mean": 0.05,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "48%",
+      "young_sd": -0.04,
+      "yong_mean": 0.05,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "49%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "50%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "51%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "52%",
+      "young_sd": -0.02,
+      "yong_mean": 0.04,
+      "young_plussd": 0.1,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "53%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "54%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "55%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "56%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "57%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "58%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "59%",
+      "young_sd": -0.01,
+      "yong_mean": 0.04,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "60%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "61%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "62%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "63%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "64%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "65%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "66%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "67%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "68%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "69%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "70%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "71%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "72%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "73%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "74%",
+      "young_sd": 0.01,
+      "yong_mean": 0.03,
+      "young_plussd": 0.05,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.05
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "75%",
+      "young_sd": 0,
+      "yong_mean": 0.03,
+      "young_plussd": 0.06,
+      "adult_sd": 0.01,
+      "adult_mean": 0.03,
+      "adult_plussd": 0.06
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "76%",
+      "young_sd": -0.02,
+      "yong_mean": 0.03,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "77%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.07,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "78%",
+      "young_sd": 0,
+      "yong_mean": 0.04,
+      "young_plussd": 0.08,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.07
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "79%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "80%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "81%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "82%",
+      "young_sd": 0,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": 0,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "83%",
+      "young_sd": 0.01,
+      "yong_mean": 0.1,
+      "young_plussd": 0.18,
+      "adult_sd": 0,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "84%",
+      "young_sd": 0.01,
+      "yong_mean": 0.11,
+      "young_plussd": 0.21,
+      "adult_sd": 0,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "85%",
+      "young_sd": 0.02,
+      "yong_mean": 0.12,
+      "young_plussd": 0.22,
+      "adult_sd": 0,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "86%",
+      "young_sd": 0.02,
+      "yong_mean": 0.14,
+      "young_plussd": 0.25,
+      "adult_sd": 0,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "87%",
+      "young_sd": 0.02,
+      "yong_mean": 0.13,
+      "young_plussd": 0.24,
+      "adult_sd": -0.01,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.25
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "88%",
+      "young_sd": 0.04,
+      "yong_mean": 0.13,
+      "young_plussd": 0.23,
+      "adult_sd": 0.02,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "89%",
+      "young_sd": 0.04,
+      "yong_mean": 0.16,
+      "young_plussd": 0.28,
+      "adult_sd": 0.01,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "90%",
+      "young_sd": 0.03,
+      "yong_mean": 0.17,
+      "young_plussd": 0.32,
+      "adult_sd": 0.01,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "91%",
+      "young_sd": 0.04,
+      "yong_mean": 0.17,
+      "young_plussd": 0.3,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "92%",
+      "young_sd": 0.05,
+      "yong_mean": 0.16,
+      "young_plussd": 0.28,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "93%",
+      "young_sd": 0.05,
+      "yong_mean": 0.14,
+      "young_plussd": 0.23,
+      "adult_sd": 0.03,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "94%",
+      "young_sd": 0.03,
+      "yong_mean": 0.14,
+      "young_plussd": 0.25,
+      "adult_sd": 0.04,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "95%",
+      "young_sd": 0.04,
+      "yong_mean": 0.16,
+      "young_plussd": 0.28,
+      "adult_sd": 0.01,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "96%",
+      "young_sd": 0.03,
+      "yong_mean": 0.14,
+      "young_plussd": 0.25,
+      "adult_sd": 0.04,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.23
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "97%",
+      "young_sd": 0.02,
+      "yong_mean": 0.12,
+      "young_plussd": 0.22,
+      "adult_sd": 0.02,
+      "adult_mean": 0.13,
+      "adult_plussd": 0.25
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "98%",
+      "young_sd": -0.02,
+      "yong_mean": 0.13,
+      "young_plussd": 0.27,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "99%",
+      "young_sd": -0.01,
+      "yong_mean": 0.13,
+      "young_plussd": 0.27,
+      "adult_sd": 0,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Biceps femoris",
+      "% Gait Cycle": "100%",
+      "young_sd": 0.01,
+      "yong_mean": 0.11,
+      "young_plussd": 0.21,
+      "adult_sd": -0.01,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "0%",
+      "young_sd": 0.02,
+      "yong_mean": 0.15,
+      "young_plussd": 0.28,
+      "adult_sd": 0.03,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.22
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "1%",
+      "young_sd": 0.04,
+      "yong_mean": 0.17,
+      "young_plussd": 0.3,
+      "adult_sd": 0.03,
+      "adult_mean": 0.14,
+      "adult_plussd": 0.24
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "2%",
+      "young_sd": 0.05,
+      "yong_mean": 0.19,
+      "young_plussd": 0.34,
+      "adult_sd": 0.05,
+      "adult_mean": 0.16,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "3%",
+      "young_sd": 0.07,
+      "yong_mean": 0.19,
+      "young_plussd": 0.32,
+      "adult_sd": 0.04,
+      "adult_mean": 0.17,
+      "adult_plussd": 0.3
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "4%",
+      "young_sd": 0.06,
+      "yong_mean": 0.17,
+      "young_plussd": 0.29,
+      "adult_sd": 0.04,
+      "adult_mean": 0.17,
+      "adult_plussd": 0.31
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "5%",
+      "young_sd": 0.04,
+      "yong_mean": 0.15,
+      "young_plussd": 0.26,
+      "adult_sd": 0.04,
+      "adult_mean": 0.17,
+      "adult_plussd": 0.31
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "6%",
+      "young_sd": 0.02,
+      "yong_mean": 0.13,
+      "young_plussd": 0.23,
+      "adult_sd": 0.03,
+      "adult_mean": 0.15,
+      "adult_plussd": 0.28
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "7%",
+      "young_sd": 0.02,
+      "yong_mean": 0.11,
+      "young_plussd": 0.2,
+      "adult_sd": 0.02,
+      "adult_mean": 0.12,
+      "adult_plussd": 0.21
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "8%",
+      "young_sd": 0.02,
+      "yong_mean": 0.09,
+      "young_plussd": 0.16,
+      "adult_sd": 0.02,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "9%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "10%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.08,
+      "adult_plussd": 0.17
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "11%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "12%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "13%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "14%",
+      "young_sd": 0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "15%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "16%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "17%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "18%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "19%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "20%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "21%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "22%",
+      "young_sd": 0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "23%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "24%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "25%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "26%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "27%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "28%",
+      "young_sd": -0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "29%",
+      "young_sd": -0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.15,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "30%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "31%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "32%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "33%",
+      "young_sd": -0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "34%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "35%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "36%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": -0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "37%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": -0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "38%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "39%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "40%",
+      "young_sd": -0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "41%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "42%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "43%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "44%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "45%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "46%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "47%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": -0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "48%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "49%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "50%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "51%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "52%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "53%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "54%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "55%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.08,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "56%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "57%",
+      "young_sd": 0,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "58%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0.01,
+      "adult_mean": 0.04,
+      "adult_plussd": 0.08
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "59%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "60%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "61%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": -0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "62%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "63%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "64%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "65%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "66%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "67%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.15,
+      "adult_sd": -0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "68%",
+      "young_sd": 0,
+      "yong_mean": 0.08,
+      "young_plussd": 0.16,
+      "adult_sd": -0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "69%",
+      "young_sd": -0.01,
+      "yong_mean": 0.08,
+      "young_plussd": 0.17,
+      "adult_sd": -0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "70%",
+      "young_sd": -0.01,
+      "yong_mean": 0.07,
+      "young_plussd": 0.16,
+      "adult_sd": -0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "71%",
+      "young_sd": 0,
+      "yong_mean": 0.07,
+      "young_plussd": 0.14,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "72%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "73%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": -0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "74%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": -0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "75%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": -0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "76%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": -0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "77%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "78%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "79%",
+      "young_sd": 0,
+      "yong_mean": 0.06,
+      "young_plussd": 0.12,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.09
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "80%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "81%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "82%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "83%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.11,
+      "adult_sd": -0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "84%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.1,
+      "adult_sd": -0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "85%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": -0.02,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.14
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "86%",
+      "young_sd": 0.01,
+      "yong_mean": 0.05,
+      "young_plussd": 0.09,
+      "adult_sd": -0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "87%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": -0.01,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "88%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "89%",
+      "young_sd": 0.01,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.05,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "90%",
+      "young_sd": 0.02,
+      "yong_mean": 0.06,
+      "young_plussd": 0.1,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "91%",
+      "young_sd": 0.02,
+      "yong_mean": 0.07,
+      "young_plussd": 0.13,
+      "adult_sd": 0,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "92%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.13,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.1
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "93%",
+      "young_sd": 0.02,
+      "yong_mean": 0.08,
+      "young_plussd": 0.14,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.11
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "94%",
+      "young_sd": 0.03,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.06,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "95%",
+      "young_sd": 0.03,
+      "yong_mean": 0.09,
+      "young_plussd": 0.15,
+      "adult_sd": 0.01,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.12
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "96%",
+      "young_sd": 0.03,
+      "yong_mean": 0.1,
+      "young_plussd": 0.17,
+      "adult_sd": 0.02,
+      "adult_mean": 0.07,
+      "adult_plussd": 0.13
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "97%",
+      "young_sd": 0.03,
+      "yong_mean": 0.13,
+      "young_plussd": 0.22,
+      "adult_sd": 0.02,
+      "adult_mean": 0.09,
+      "adult_plussd": 0.15
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "98%",
+      "young_sd": 0.05,
+      "yong_mean": 0.13,
+      "young_plussd": 0.22,
+      "adult_sd": 0.02,
+      "adult_mean": 0.1,
+      "adult_plussd": 0.18
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "99%",
+      "young_sd": 0.04,
+      "yong_mean": 0.13,
+      "young_plussd": 0.22,
+      "adult_sd": 0.03,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.19
+    },
+    {
+      "Muscle [% max]": "Gluteus maximus",
+      "% Gait Cycle": "100%",
+      "young_sd": 0.04,
+      "yong_mean": 0.14,
+      "young_plussd": 0.25,
+      "adult_sd": 0.04,
+      "adult_mean": 0.11,
+      "adult_plussd": 0.18
+    }
+   ]
