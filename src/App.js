@@ -22,9 +22,26 @@ function App (){
   const animatableref = useRef(null);
   const base_material=useRef(null)
   const anteriorthigh_material=useRef(null)
+  const glutmax_material=useRef(null)
+  const hammies_material=useRef(null)
+  const knee_material=useRef(null)
+  const gastroc_material=useRef(null)
+  const soleus_material=useRef(null)
   const [gaitphase,setGaitphase]=useState("")
   const[tibemg, settibemg]=useState(jsonData.filter(item => item['Muscle [% max]'] =="Tibialis anterior"))
+  const[glutmaxemg, setglutemg]=useState(jsonData.filter(item => item['Muscle [% max]'] =="Gluteus maximus"))
+  const[kneeemg, setkneeemg]=useState(jsonData.filter(item => item['Muscle [% max]'] =="Rectus femoris"))
+  const[gastrocemg, setgastrocemg]=useState(jsonData.filter(item => item['Muscle [% max]'] =="Gastrocnemius medialis"))
+  const[soleusemg, setsoleusemg]=useState(jsonData.filter(item => item['Muscle [% max]'] =="Soleus"))
+
+  const[hammiesemg, sethammieemg]=useState(jsonData.filter(item => item['Muscle [% max]'] =="Biceps femoris"))
   const [tibemgcurrent,settibcurrent]=useState()
+  const [glutmaxemgcurrent,setglutmaxcurrent]=useState()
+  const [hammieemgcurrent,sethammiecurrent]=useState()
+  const [kneeemgcurrent,setkneecurrent]=useState()
+  const [gastrocemgcurrent,setgastroccurrent]=useState()
+  const [soleusemgcurrent,setsoleuscurrent]=useState()
+
 
   let box;
 let skeleton
@@ -80,7 +97,13 @@ basebody.diffuseColor = newMeshes[0].material.subMaterials[0]
     console.log(newMeshes[0].material.subMaterials[1])
     base_material.current=newMeshes[0].material.subMaterials[0]
     anteriorthigh_material.current= newMeshes[0].material.subMaterials[2]
-  
+    glutmax_material.current=newMeshes[0].material.subMaterials[5]
+    hammies_material.current=newMeshes[0].material.subMaterials[3]
+    knee_material.current=newMeshes[0].material.subMaterials[1]
+    gastroc_material.current=newMeshes[0].material.subMaterials[4]
+    
+    soleus_material.current=newMeshes[0].material.subMaterials[6]
+    
     
     skeleton.animationPropertiesOverride = new AnimationPropertiesOverride();
         skeleton.animationPropertiesOverride.enableBlending = true;
@@ -129,12 +152,45 @@ useEffect(()=>{
 
 
   settibcurrent(tibemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
+  setglutmaxcurrent(glutmaxemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
+  sethammiecurrent(hammiesemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
+  setkneecurrent(kneeemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
+  setgastroccurrent(gastrocemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
+  setsoleuscurrent(soleusemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
+  
   if(anteriorthigh_material.current&&base_material.current&&tibemgcurrent){
   anteriorthigh_material.current.emissiveColor=new Color3(map2(tibemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
   anteriorthigh_material.current.diffuseColor=new Color3(map2(tibemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
   
   }
-  
+  if(glutmax_material.current&&base_material.current&&glutmaxemgcurrent){
+    glutmax_material.current.emissiveColor=new Color3(map2(glutmaxemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+    glutmax_material.current.diffuseColor=new Color3(map2(glutmaxemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+    
+    }
+
+  if(hammies_material.current&&base_material.current&&hammieemgcurrent){
+    hammies_material.current.emissiveColor=new Color3(map2(hammieemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+    hammies_material.current.diffuseColor=new Color3(map2(hammieemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+    
+    }
+
+    if(gastroc_material.current&&base_material.current&&gastrocemgcurrent){
+      gastroc_material.current.emissiveColor=new Color3(map2(gastrocemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+      gastroc_material.current.diffuseColor=new Color3(map2(gastrocemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+      
+      }
+
+      if(knee_material.current&&base_material.current&&kneeemgcurrent){
+        knee_material.current.emissiveColor=new Color3(map2(kneeemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+        knee_material.current.diffuseColor=new Color3(map2(kneeemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+        
+        }
+        if(soleus_material.current&&base_material.current&&soleusemgcurrent){
+          soleus_material.current.emissiveColor=new Color3(map2(soleusemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+          soleus_material.current.diffuseColor=new Color3(map2(soleusemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
+          
+          }
   if(getframe(currentFrame)>=0 && getframe(currentFrame)<=9){
 
     setGaitphase("contralateral foot off")
@@ -307,6 +363,7 @@ function togglespeed(e){
         
         <div>
           {tibemgcurrent&&JSON.stringify(tibemgcurrent[0]['adult_mean'])}
+          
         </div>
       
     </section>
