@@ -361,6 +361,12 @@ const data = {
     <h1 className="text-3xl font-bold underline">
       Gait Visualiser
       </h1>
+      <h2>
+        Data source:
+        https://pubmed.ncbi.nlm.nih.gov/21123071/
+<br></br>A multiple-task gait analysis approach: kinematic, kinetic and EMG reference data for healthy young and adult subjects
+
+      </h2>
       
     {Math.round(currentFrame-startframe)}
     <br></br>
