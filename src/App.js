@@ -132,7 +132,7 @@ helper.setMainColor(Color3.Gray());
   
   var ground =MeshBuilder.CreateGround("ground", { width: 600, height: 600 }, scene);
  
-  SceneLoader.ImportMesh("", "http://localhost:3000/", "texture_multiple_v2.babylon", scene, function (newMeshes, particleSystems, skeletons) {
+  SceneLoader.ImportMesh("", "https://gaitvisualiser.vercel.app/", "texture_multiple_v2.babylon", scene, function (newMeshes, particleSystems, skeletons) {
     const basebody = new StandardMaterial('base_body', scene);
 basebody.diffuseColor = newMeshes[0].material.subMaterials[0]
     skeleton = skeletons[0];
