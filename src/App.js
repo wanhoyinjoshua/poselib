@@ -1,14 +1,57 @@
 import logo from './logo.svg';
 import './App.css';
 import jsonData from './emg.json';
+import {
+  Chart as ChartJS,
+  CategoryScale,
+  LinearScale,
+  BarElement,
+  Title,
+  Tooltip,
+  Legend,
+} from 'chart.js';
 
 
+import { Bar } from 'react-chartjs-2';
 import React from "react";
 import { useState,useEffect, useRef } from 'react';
 import { FreeCamera,DirectionalLight,Color3,Animation,ArcRotateCamera, Vector3, HemisphericLight, MeshBuilder,SceneLoader,AnimationPropertiesOverride,StandardMaterial } from "@babylonjs/core";
 // uses above component in same directory
 import SceneComponent from 'babylonjs-hook'; // if you install 'babylonjs-hook' NPM.
 import "./App.css"; 
+ChartJS.register(
+  CategoryScale,
+  LinearScale,
+  BarElement,
+  Title,
+  Tooltip,
+  Legend
+);
+
+export const options = {
+  indexAxis: 'y',
+  
+  elements: {
+    bar: {
+      borderWidth: 2,
+    },
+  },
+  responsive: true,
+  plugins: {
+    legend: {
+      position: 'right' ,
+    },
+    title: {
+      display: true,
+      text: 'EMG activation % ',
+    },
+  },
+};
+
+const labels = ['Rectus Femoris', 'Bicep Femoris', 'Tibilais anterior', 'Medial Gastrocs', 'Soleus',"Gluteus Maximus"];
+
+
+
 
 
 //citation is https://pubmed.ncbi.nlm.nih.gov/21123071/
@@ -302,13 +345,30 @@ function togglespeed(e){
   animatableref.current._speedRatio=speed
 
 }
+
+const data = {
+  labels,
+  datasets: [
+    {
+      label: '%of max EMG ',
+      data: tibemgcurrent ?[(kneeemgcurrent[0]['adult_mean']/1)*100,(hammieemgcurrent[0]['adult_mean']/1)*100,(tibemgcurrent[0]['adult_mean']/1)*100,(gastrocemgcurrent[0]['adult_mean']/1)*100,(soleusemgcurrent[0]['adult_mean']/1)*100,(glutmaxemgcurrent[0]['adult_mean']/1)*100]: [null, 5, 5, 5, 5,5],
+      borderColor: 'rgb(255, 99, 132)',
+      backgroundColor: 'rgba(255, 99, 132, 0.5)',
+    }
+  ],
+};
   return <div>
     <h1 className="text-3xl font-bold underline">
       Gait Visualiser
       </h1>
+      
     {Math.round(currentFrame-startframe)}
-    <div className='w-screen'>
-    <section className='w-1/2'> 
+    <br></br>
+    <div>
+        Slide to control gait cycle
+      </div>
+    <div className='w-screen flex flex-col lg:flex-row'>
+    <section className='lg:w-1/2 mt-4 lg:mt-0'> 
       <input
         type="range"
         className='w-full'
@@ -318,7 +378,9 @@ function togglespeed(e){
         step="0.05"
         onChange={(e) => frame(animatableref.current,e)}
       />
-      
+      <div>
+        Slide to Adjust Speed
+      </div>
 
       <input
         type="range"
@@ -332,42 +394,37 @@ function togglespeed(e){
       />
       
 
-      <input
-        type="range"
-        className='w-full'
-        min={0}
-        step="0.01"
-        max={1} // Set total frames here
-        
-        
-        onChange={(e) => {anteriorthigh_material.current.emissiveColor=new Color3(e.target.value, e.target.value, e.target.value)}}
-      />
       
-       <button onClick={() => {
+      <div
+        class={`w-16 h-16 flex flex-row items-center gap-2 justify-center ${isPlaying?"bg-red-500":"bg-green-500"} rounded-full shadow-lg hover:cursor-pointer hover:drop-shadow-xl  hover:scale-105`}>
+        <button onClick={() => {
           
-       pause(isPlaying,animatableref.current)
-        }}>
-        {isPlaying ? "Pause" : "Play"}
-      </button>
+          pause(isPlaying,animatableref.current)
+           }}>
+           {isPlaying ? "Pause" : "Play"}
+         </button>
+    </div>
+       
      <br></br>
   <SceneComponent className='w-full' antialias onSceneReady={onSceneReady} onRender={onRender} id="my-canvas" />
 
     </section>
-    <section>
+    <section className='lg:w-1/2 mt-4 lg:mt-0'>
       Output panel
-      {gaitphase}
-      {getframe(currentFrame)}
+      
+     
       <div>
-        percent: {percentage}
+        percent: {Math.round(percentage)}
         </div>
         
         <div>
-          {tibemgcurrent&&JSON.stringify(tibemgcurrent[0]['adult_mean'])}
-          
+        
         </div>
-      
+       
+    <br></br>
+    <Bar options={options} data={data} />
     </section>
-    {currentFrame}
+    
 
     </div>
    
