@@ -15,8 +15,9 @@ import {
 import { Bar } from 'react-chartjs-2';
 import React from "react";
 import { useState,useEffect, useRef } from 'react';
-import { FreeCamera,DirectionalLight,Color3,Animation,ArcRotateCamera, Vector3, HemisphericLight, MeshBuilder,SceneLoader,AnimationPropertiesOverride,StandardMaterial } from "@babylonjs/core";
+import {Matrix,Quaternion,PointerEventTypes,PositionGizmo,PlaneRotationGizmo,UtilityLayerRenderer,Space,Axis, FreeCamera,DirectionalLight,Color3,Animation,ArcRotateCamera, Vector3, HemisphericLight, MeshBuilder,SceneLoader,AnimationPropertiesOverride,StandardMaterial } from "@babylonjs/core";
 // uses above component in same directory
+import '@babylonjs/loaders'
 import SceneComponent from 'babylonjs-hook'; // if you install 'babylonjs-hook' NPM.
 import "./App.css"; 
 ChartJS.register(
@@ -61,6 +62,7 @@ function App (){
   const [currentFrame, setCurrentFrame] = useState(0);
   const [isPlaying, setIsPlaying] = useState(true);
   const [speed,setSpeed]=useState(1)
+  const [rotation,setRotation]=useState(0)
   const [percentage,setpercent]=useState(0)
   const animatableref = useRef(null);
   const base_material=useRef(null)
@@ -84,6 +86,14 @@ function App (){
   const [kneeemgcurrent,setkneecurrent]=useState()
   const [gastrocemgcurrent,setgastroccurrent]=useState()
   const [soleusemgcurrent,setsoleuscurrent]=useState()
+  const [scene, setScene] = useState(null);
+
+  const [skeletons,setSkeletons]=useState()
+
+  const [isDragging, setIsDragging] = useState(false);  // To track if the object is being dragged
+  const [dragOffset, setDragOffset] = useState(new Vector3(0, 0, 0));  // To store the offset when dragging starts
+  const [selectedObject, setSelectedObject] = useState(null);  // To track the selected object
+
 
 
   let box;
@@ -91,15 +101,17 @@ let skeleton
 let animatable
 const startframe=200
 const endframe=231
+
 const onSceneReady = (scene) => {
   // This creates and positions a free camera (non-mesh)
-  Animation.AllowMatricesInterpolation = true;
+  setScene(scene)
+  //Animation.AllowMatricesInterpolation = true;
   const canvas = scene.getEngine().getRenderingCanvas();
-  var camera = new ArcRotateCamera("camera1", Math.PI / 2, Math.PI / 4, 3, new Vector3(0, 100, 10), scene);
+  var camera = new ArcRotateCamera("camera1", 0,0, 0, new Vector3(0, 2, 0), scene);
     camera.attachControl(canvas, true);
 
-    camera.lowerRadiusLimit = 200;
-    camera.upperRadiusLimit = 1000;
+  camera.lowerRadiusLimit = 1;
+  camera.upperRadiusLimit = 100;
     camera.wheelDeltaPercentage = 0.01;
  
 
@@ -119,8 +131,8 @@ helper.setMainColor(Color3.Gray());
 	light.intensity = 1;
 	light.specular = Color3.Black();
 
-    var light2 = new DirectionalLight("dir01", new Vector3(0, 15000, -1.0), scene);
-    light2.position = new Vector3(0, 150, 5);
+    var light2 = new DirectionalLight("dir01", new Vector3(0, 0, -1.0), scene);
+    light2.position = new Vector3(0, 0, 5);
 
   // Default intensity is 1. Let's dim the light a small amount
   light.intensity = 1;
@@ -130,33 +142,120 @@ helper.setMainColor(Color3.Gray());
   // Our built-in 'ground' shape.
 
   
-  var ground =MeshBuilder.CreateGround("ground", { width: 600, height: 600 }, scene);
+  var ground =MeshBuilder.CreateGround("ground", { width: 10, height: 10 }, scene);
  
-  SceneLoader.ImportMesh("", "https://gaitvisualiser.vercel.app/", "texture_multiple_v2.babylon", scene, function (newMeshes, particleSystems, skeletons) {
-    const basebody = new StandardMaterial('base_body', scene);
-basebody.diffuseColor = newMeshes[0].material.subMaterials[0]
-    skeleton = skeletons[0];
-    console.log(skeleton)
-    console.log(newMeshes[0].material.subMaterials[1])
-    base_material.current=newMeshes[0].material.subMaterials[0]
-    anteriorthigh_material.current= newMeshes[0].material.subMaterials[2]
-    glutmax_material.current=newMeshes[0].material.subMaterials[5]
-    hammies_material.current=newMeshes[0].material.subMaterials[3]
-    knee_material.current=newMeshes[0].material.subMaterials[1]
-    gastroc_material.current=newMeshes[0].material.subMaterials[4]
+  SceneLoader.ImportMesh("", "http://localhost:3000/", "walkingboyyglb.glb", scene, function (meshes,skeletons) {
+   console.log(skeletons)
+   console.log(meshes)
+   var anim = scene.getMeshByName("__root__");
+   console.log(anim)
+   console.log("Skeletons:", scene.skeletons);
+   //all bones 
+   console.log(scene)
+   scene.animationsEnabled=false
+   const animationGroups = scene.animationGroups;
+    animationGroups.forEach((animationGroup) => {
+        animationGroup.stop(); // Stop each animation group
+    });
+   setSkeletons(scene.skeletons[0].bones)
+
+   scene.skeletons[0].bones[4].rotation=new Vector3(0,3,0)
+   
+   const quatRotY = new Quaternion();
+   Matrix.RotationY(0.10).decompose(undefined, quatRotY);
+
+   //skeletons[0].bones[0].setPosition(new BABYLON.Vector3(3, 1, 0), BABYLON.Space.BONE, meshes[0]);
+   /*
+   scene.registerBeforeRender(() => {            
+       scene.skeletons[0].bones[4].getTransformNode().rotationQuaternion.multiplyInPlace(quatRotY);
+});
+*/
+  
+
     
-    soleus_material.current=newMeshes[0].material.subMaterials[6]
+    // Optionally adjust the camera's radius to fit the object
     
+    //end camera 
     
-    skeleton.animationPropertiesOverride = new AnimationPropertiesOverride();
-        skeleton.animationPropertiesOverride.enableBlending = true;
-        skeleton.animationPropertiesOverride.blendingSpeed = 0.05;
-        skeleton.animationPropertiesOverride.loopMode = 1;
-        var walkRange = skeleton.getAnimationRange("walking");
-        const totalFrames = walkRange.to - walkRange.from + 1;
+    //skeleton.bones[4].rotate(Axis.Y,20,Space.LOCAL)
+    
+
+    
+
+
+    
+    var startingPoint;
+    var currentMesh;
+
+    var getGroundPosition = function () {
+        var pickinfo = scene.pick(scene.pointerX, scene.pointerY, function (mesh) { return mesh == ground; });
+        if (pickinfo.hit) {
+            return pickinfo.pickedPoint;
+        }
+
+        return null;
+    }
+/*
+    var pointerDown = function (mesh) {
+            currentMesh = mesh;
+            startingPoint = getGroundPosition();
+            if (startingPoint) { // we need to disconnect camera from canvas
+                setTimeout(function () {
+                    camera.detachControl(canvas);
+                }, 0);
+            }
+    }
+
+    var pointerUp = function () {
+        if (startingPoint) {
+            camera.attachControl(canvas, true);
+            startingPoint = null;
+            return;
+        }
+    }
+
+    var pointerMove = function () {
+        if (!startingPoint) {
+            return;
+        }
+        var current = getGroundPosition();
+        if (!current) {
+            return;
+        }
+
+        var diff = current.subtract(startingPoint);
+        currentMesh.position.addInPlace(diff);
+
+        startingPoint = current;
+
+    }
+
+    scene.onPointerObservable.add((pointerInfo) => {      		
+        switch (pointerInfo.type) {
+			case PointerEventTypes.POINTERDOWN:
+				if(pointerInfo.pickInfo.hit && pointerInfo.pickInfo.pickedMesh != ground) {
+                    pointerDown(pointerInfo.pickInfo.pickedMesh)
+                }
+				break;
+			case PointerEventTypes.POINTERUP:
+                    pointerUp();
+				break;
+			case PointerEventTypes.POINTERMOVE:          
+                    pointerMove();
+				break;
+        }
+    });
+
+
+
+    
+   
+    */
+    
+   
         
        
-        animatable= scene.beginAnimation(skeleton, startframe, endframe, true, 1.0)
+       
         //216 has to be the middle
         //253 is end
 
@@ -166,7 +265,6 @@ basebody.diffuseColor = newMeshes[0].material.subMaterials[0]
 
 
         
-        animatableref.current=scene.beginAnimation(skeleton, startframe, endframe, true, 1.0)
         
         
 
@@ -179,103 +277,24 @@ basebody.diffuseColor = newMeshes[0].material.subMaterials[0]
 /**
  * Will run on every frame render.  We are spinning the box on y-axis.
  */
-function map(input,output_end,output_start,input_end,input_start){
-  var slope = (output_end - output_start) / (input_end - input_start)
-return  output_start + slope * (getframe(input) - input_start)
-
-}
-
-function map2(input,output_end,output_start,input_end,input_start){
-  var slope = (output_end - output_start) / (input_end - input_start)
-return  output_start + slope * (input - input_start)
-
-}
-useEffect(()=>{
 
 
 
-  settibcurrent(tibemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
-  setglutmaxcurrent(glutmaxemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
-  sethammiecurrent(hammiesemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
-  setkneecurrent(kneeemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
-  setgastroccurrent(gastrocemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
-  setsoleuscurrent(soleusemg.filter(item=>item['% Gait Cycle']==`${Math.round(percentage)}%`))
-  
-  if(anteriorthigh_material.current&&base_material.current&&tibemgcurrent){
-  anteriorthigh_material.current.emissiveColor=new Color3(map2(tibemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-  anteriorthigh_material.current.diffuseColor=new Color3(map2(tibemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-  
-  }
-  if(glutmax_material.current&&base_material.current&&glutmaxemgcurrent){
-    glutmax_material.current.emissiveColor=new Color3(map2(glutmaxemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-    glutmax_material.current.diffuseColor=new Color3(map2(glutmaxemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-    
-    }
-
-  if(hammies_material.current&&base_material.current&&hammieemgcurrent){
-    hammies_material.current.emissiveColor=new Color3(map2(hammieemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-    hammies_material.current.diffuseColor=new Color3(map2(hammieemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-    
-    }
-
-    if(gastroc_material.current&&base_material.current&&gastrocemgcurrent){
-      gastroc_material.current.emissiveColor=new Color3(map2(gastrocemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-      gastroc_material.current.diffuseColor=new Color3(map2(gastrocemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-      
-      }
-
-      if(knee_material.current&&base_material.current&&kneeemgcurrent){
-        knee_material.current.emissiveColor=new Color3(map2(kneeemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-        knee_material.current.diffuseColor=new Color3(map2(kneeemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-        
-        }
-        if(soleus_material.current&&base_material.current&&soleusemgcurrent){
-          soleus_material.current.emissiveColor=new Color3(map2(soleusemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-          soleus_material.current.diffuseColor=new Color3(map2(soleusemgcurrent[0]['adult_mean'],1,0,0.18,0), 0,0)
-          
-          }
-  if(getframe(currentFrame)>=0 && getframe(currentFrame)<=9){
-
-    setGaitphase("contralateral foot off")
-    setpercent(map(currentFrame,11,0,9,0))
   
 
-
-  }
-
-  else if(getframe(currentFrame)>9 && getframe(currentFrame)<=18){
-
-    setGaitphase("cobtralateral footstriek")
-    setpercent(map(currentFrame,50,11,18,9))
-    
-
-
-  }
-  else if(getframe(currentFrame)>18 && getframe(currentFrame)<=24){
-
-    setGaitphase("ispilateral footoff")
-    setpercent(map(currentFrame,61,50,24,18))
-
-
-
-  }
-
-  else if(getframe(currentFrame)>24 && getframe(currentFrame)<=31){
-
-    setGaitphase("end")
-    setpercent(map(currentFrame,100,61,31,24))
-   
-
-
-  }
+  
 
 
   
 
 
-},[currentFrame])
+
 const onRender = () => {
+
+  
+
   if(animatableref.current){
+    skeleton.bones[4].rotate(Axis.Y,20,Space.LOCAL)
   
     setCurrentFrame(animatableref.current.masterFrame)
 
@@ -345,21 +364,83 @@ function togglespeed(e){
   animatableref.current._speedRatio=speed
 
 }
+  async function add(){
+  console.log(scene)
+  if(scene!=null
+  ){
+    //var ground =MeshBuilder.CreateBox("box", { size: 100 }, scene)
+    
+    SceneLoader.ImportMesh("", "http://localhost:3000/","skull.babylon", scene, (meshes) => {
+      // The 'meshes' array will contain all the meshes loaded from the GLB file
+     
+      const ground = meshes[0];  // Assuming the first mesh is the one you want
+      
 
-const data = {
-  labels,
-  datasets: [
-    {
-      label: '%of max EMG ',
-      data: tibemgcurrent ?[(kneeemgcurrent[0]['adult_mean']/1)*100,(hammieemgcurrent[0]['adult_mean']/1)*100,(tibemgcurrent[0]['adult_mean']/1)*100,(gastrocemgcurrent[0]['adult_mean']/1)*100,(soleusemgcurrent[0]['adult_mean']/1)*100,(glutmaxemgcurrent[0]['adult_mean']/1)*100]: [null, 5, 5, 5, 5,5],
-      borderColor: 'rgb(255, 99, 132)',
-      backgroundColor: 'rgba(255, 99, 132, 0.5)',
-    }
-  ],
-};
+      // Create the utility layer and gizmos
+      const utilLayer = new UtilityLayerRenderer(scene);
+
+      // Create the gizmos for rotation and position
+      const gizmo = new PlaneRotationGizmo(new Vector3(0, 1, 0), Color3.FromHexString("#00b894"), utilLayer);
+      const gizmopos = new PositionGizmo(utilLayer);
+
+      // Attach the gizmos to the imported mesh
+      gizmo.attachedMesh = ground;
+      gizmopos.attachedMesh = ground;
+
+      // Updating using local rotation and position
+      gizmo.updateGizmoRotationToMatchAttachedMesh = true;
+      gizmo.updateGizmoPositionToMatchAttachedMesh = true;
+      gizmo.scale = 10;
+
+      // Optional: Set the position of the mesh if necessary
+      ground.position = new Vector3(0, 1, 0); // Set position to just above the ground
+    });  
+    //var ground = ground.meshes[1];
+    //var utilLayer = new UtilityLayerRenderer(scene);
+
+    // Create the gizmo and attach to the box
+    //var gizmo = new PlaneRotationGizmo(new Vector3(0,1,0), Color3.FromHexString("#00b894"), utilLayer);
+    //var gizmopos = new PositionGizmo(utilLayer);
+    //gizmo.attachedMesh = ground
+    //gizmopos.attachedMesh=ground
+
+    // Updating using local rotation
+    //gizmo.updateGizmoRotationToMatchAttachedMesh = true;
+    //gizmo.updateGizmoPositionToMatchAttachedMesh = true;
+    //gizmo.scale = 10;
+ 
+  //sphere.position = new Vector3(5, 1, 0); // Set position
+
+  }
+  
+}
+
+function rotate(angle){
+  console.log(skeletons[4].rotation)
+var an=angle.target.value
+setRotation(an)
+console.log(an)
+var rad=(an * Math.PI) / 180
+console.log(rad)
+  //skeletons[4].rotate(Axis.Y,rad,Space.LOCAL)
+  var cc= new Vector3(0,rad,0)
+  //skeletons[4].getTransformNode().rotationQuaternion.multiplyInPlace(new Quaternion())
+
+  // Apply the new rotation to the bone
+  var bone = skeletons[4]// Access the specific bone
+
+  // Create a new rotation quaternion for Y-axis rotation
+  var quatRotation = Quaternion.RotationAxis(Axis.Y, rad);
+  
+  // Apply the rotation to the bone's transform node
+  bone.getTransformNode().rotationQuaternion = quatRotation;
+
+}
+
   return <div>
     <h1 className="text-3xl font-bold underline">
       Gait Visualiser
+    
       </h1>
       <h2>
         Data source:
@@ -420,7 +501,20 @@ const data = {
       
      
       <div>
-        percent: {Math.round(percentage)}
+        <button onClick={()=>{add()}}>Add</button>
+      <input
+        type="range"
+        className='w-full'
+        min={-90}
+        step="0.000001"
+        max={90} // Set total frames here
+        value={rotation}
+        
+        onChange={(e) => {
+          //setRotation(e.target.value);
+          rotate(e)
+        }}
+      />
         </div>
         
         <div>
@@ -428,7 +522,7 @@ const data = {
         </div>
        
     <br></br>
-    <Bar options={options} data={data} />
+    
     </section>
     
 
